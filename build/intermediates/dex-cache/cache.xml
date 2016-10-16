@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.1_a93eeb6006981923230b4896a4abc4d6c0854487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_31658c0d5904df7bc127ee5a903a8f42a90d6319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_8045f458c374113848c1504335ff87b012885be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_dd10a10bfadf5af7505f41c297c653e2ad4f7143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_640e29d11a9c90d89a9b2c59ad60f8ed338ed601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="87863bb9e0320ff9ddb0eb9dd26b634bf8e71c80">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c8b0d74683b072b65f6bfbb36243799718fd250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_98c53243979333d7188be1afaf2650a356c239c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_327336490261b23951034946d033d16725a1dd28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a209a2ff6f767e76f2a5da3227b1a0908f878c8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_68c0fcc29382753831d69fa6888695f422aa73a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_af6469464761fb394e81aea002d85b334c8dc414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_b3d18b4b579fb3b67acaedb5e7d8ba2c2c8927d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec25344a1216535c63b58f0bc5e2292832010469">
+        <dex dex="/home/neto/AndroidStudioProjects/LoginFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a98e142be6b89e9b13e4743c192894acd948b635/classes.dex" />
+    </item>
+
+</items>
